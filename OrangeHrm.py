@@ -4,4 +4,5 @@ browser = webdriver.Firefox()
 
 browser.get("https://www.orangehrm.com/")
 
-browser.find_element()
+
+browser.close()
