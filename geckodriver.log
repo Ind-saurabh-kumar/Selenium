@@ -367,8 +367,9 @@ WebDriver BiDi listening on ws://127.0.0.1:49745
 Read port: 49752
 1729198139138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
-1729198226198	geckodriver	INFO	Listening on 127.0.0.1:49804
-1729198229286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileUGAdVJ"
+1729204365581	Marionette	INFO	Stopped listening on port 49752
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileUGAdVJ"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 Dynamically enable window occlusion 0
@@ -451,8 +452,9 @@ WebDriver BiDi listening on ws://127.0.0.1:50815
 Read port: 50825
 1729200827882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1729200830294	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
-1729200852050	geckodriver	INFO	Listening on 127.0.0.1:50867
-1729200855109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileDyxk4o"
+1729204366653	Marionette	INFO	Stopped listening on port 50825
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileDyxk4o"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 Dynamically enable window occlusion 0
