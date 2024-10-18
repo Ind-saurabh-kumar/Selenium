@@ -825,3 +825,69 @@ Read port: 63697
 1729287144597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1729287160914	Marionette	INFO	Stopped listening on port 63697
 Dynamically enable window occlusion 1
+1729287715714	geckodriver	INFO	Listening on 127.0.0.1:63910
+1729287718785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileFker5C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729287719800	Marionette	INFO	Marionette enabled
+1729287719999	Marionette	INFO	Listening on port 63918
+WebDriver BiDi listening on ws://127.0.0.1:63911
+Read port: 63918
+1729287720204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.jsdelivr.net/npm/@docsearch/js@3.6.0, line 8: TypeError: t is null
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+FO	Stopped listening on port 63998
+Dynamically enable window occlusion 1
+1729287885790	geckodriver	INFO	Listening on 127.0.0.1:64068
+1729287888876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileE9tusw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729287889230	Marionette	INFO	Marionette enabled
+1729287889390	Marionette	INFO	Listening on port 64076
+WebDriver BiDi listening on ws://127.0.0.1:64069
+Read port: 64076
+1729287889578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.jsdelivr.net/npm/@docsearch/js@3.6.0, line 8: TypeError: t is null
+1729287905327	Marionette	INFO	Stopped listening on port 64076
+Dynamically enable window occlusion 1
+1729288041210	geckodriver	INFO	Listening on 127.0.0.1:64145
+1729288044285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofile9vHK3v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729288044602	Marionette	INFO	Marionette enabled
+1729288044770	Marionette	INFO	Listening on port 64153
+WebDriver BiDi listening on ws://127.0.0.1:64146
+Read port: 64153
+1729288044937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.jsdelivr.net/npm/@docsearch/js@3.6.0, line 8: TypeError: t is null
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/docs/intro" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/docs/intro" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/docs/intro" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/docs/intro" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/docs/intro" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/docs/intro" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/docs/intro" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
+gnored for this session
+JavaScript error: https://cdn.jsdelivr.net/npm/@docsearch/js@3.6.0, line 8: TypeError: t is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@docsearch/js@3.6.0, line 8: TypeError: t is null
+1729288445082	Marionette	INFO	Stopped listening on port 64268
+Dynamically enable window occlusion 1
