@@ -891,3 +891,53 @@ JavaScript error: https://cdn.jsdelivr.net/npm/@docsearch/js@3.6.0, line 8: Type
 JavaScript error: https://cdn.jsdelivr.net/npm/@docsearch/js@3.6.0, line 8: TypeError: t is null
 1729288445082	Marionette	INFO	Stopped listening on port 64268
 Dynamically enable window occlusion 1
+1729290822738	geckodriver	INFO	Listening on 127.0.0.1:65121
+1729290825805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65122" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileH9kK1E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729290826120	Marionette	INFO	Marionette enabled
+1729290826283	Marionette	INFO	Listening on port 65129
+WebDriver BiDi listening on ws://127.0.0.1:65122
+Read port: 65129
+1729290826429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1729290888993	Marionette	INFO	Stopped listening on port 65129
+Dynamically enable window occlusion 1
+1729290914999	geckodriver	INFO	Listening on 127.0.0.1:65187
+1729290918076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileXA7VfZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729290918405	Marionette	INFO	Marionette enabled
+1729290918563	Marionette	INFO	Listening on port 65195
+WebDriver BiDi listening on ws://127.0.0.1:65188
+Read port: 65195
+1729290918712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+ings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729290938644	Marionette	INFO	Marionette enabled
+1729290938807	Marionette	INFO	Listening on port 65250
+WebDriver BiDi listening on ws://127.0.0.1:65241
+Read port: 65250
+1729290938962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1729290959003	Marionette	INFO	Stopped listening on port 65250
+Dynamically enable window occlusion 1
+1729291250497	geckodriver	INFO	Listening on 127.0.0.1:65346
+1729291253559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofiletKv8Qy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729291253947	Marionette	INFO	Marionette enabled
+1729291254143	Marionette	INFO	Listening on port 65355
+WebDriver BiDi listening on ws://127.0.0.1:65347
+Read port: 65355
+1729291254289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-QY5T3BLYC5, line 330: Script terminated by timeout at:
+Ik@https://www.googletagmanager.com/gtag/js?id=G-QY5T3BLYC5:330:192
+
+1729291272022	Marionette	INFO	Stopped listening on port 65355
+Dynamically enable window occlusion 1
