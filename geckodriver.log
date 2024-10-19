@@ -846,9 +846,9 @@ console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwrig
 console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
 console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
 console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
-FO	Stopped listening on port 63998
+1729292804497	Marionette	INFO	Stopped listening on port 63918
 Dynamically enable window occlusion 1
-1729287885790	geckodriver	INFO	Listening on 127.0.0.1:64068
+NFO	Listening on 127.0.0.1:64068
 1729287888876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileE9tusw"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -886,8 +886,9 @@ console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwrig
 console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
 console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/docs/intro" ({})
 console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://playwright.dev/" ({})
-gnored for this session
-JavaScript error: https://cdn.jsdelivr.net/npm/@docsearch/js@3.6.0, line 8: TypeError: t is null
+1729292806577	Marionette	INFO	Stopped listening on port 64153
+Dynamically enable window occlusion 1
+ypeError: t is null
 JavaScript error: https://cdn.jsdelivr.net/npm/@docsearch/js@3.6.0, line 8: TypeError: t is null
 1729288445082	Marionette	INFO	Stopped listening on port 64268
 Dynamically enable window occlusion 1
@@ -917,27 +918,69 @@ console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-inte
 console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
 console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
 console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
-ings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-Dynamically enable window occlusion 0
-1729290938644	Marionette	INFO	Marionette enabled
-1729290938807	Marionette	INFO	Listening on port 65250
-WebDriver BiDi listening on ws://127.0.0.1:65241
-Read port: 65250
-1729290938962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1729290959003	Marionette	INFO	Stopped listening on port 65250
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://the-internet.herokuapp.com/iframe" ({})
+1729292791672	Marionette	INFO	Stopped listening on port 65195
 Dynamically enable window occlusion 1
-1729291250497	geckodriver	INFO	Listening on 127.0.0.1:65346
-1729291253559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofiletKv8Qy"
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-Dynamically enable window occlusion 0
-1729291253947	Marionette	INFO	Marionette enabled
-1729291254143	Marionette	INFO	Listening on port 65355
-WebDriver BiDi listening on ws://127.0.0.1:65347
-Read port: 65355
-1729291254289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-QY5T3BLYC5, line 330: Script terminated by timeout at:
+ger.com/gtag/js?id=G-QY5T3BLYC5, line 330: Script terminated by timeout at:
 Ik@https://www.googletagmanager.com/gtag/js?id=G-QY5T3BLYC5:330:192
 
 1729291272022	Marionette	INFO	Stopped listening on port 65355
+Dynamically enable window occlusion 1
+1729373426904	geckodriver	INFO	Listening on 127.0.0.1:49189
+1729373430084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofilevAajM2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729373431394	Marionette	INFO	Marionette enabled
+1729373431589	Marionette	INFO	Listening on port 49198
+WebDriver BiDi listening on ws://127.0.0.1:49190
+Read port: 49198
+1729373431792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1729373436071	Marionette	INFO	Stopped listening on port 49198
+Dynamically enable window occlusion 1
+1729373584271	geckodriver	INFO	Listening on 127.0.0.1:49249
+1729373587363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileTRuzyr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729373587727	Marionette	INFO	Marionette enabled
+1729373587899	Marionette	INFO	Listening on port 49257
+WebDriver BiDi listening on ws://127.0.0.1:49250
+Read port: 49257
+1729373588075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1729373593552	Marionette	INFO	Stopped listening on port 49257
+Dynamically enable window occlusion 1
+1729373734856	geckodriver	INFO	Listening on 127.0.0.1:49310
+1729373737894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofilecbdh51"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729373738260	Marionette	INFO	Marionette enabled
+1729373738427	Marionette	INFO	Listening on port 49318
+WebDriver BiDi listening on ws://127.0.0.1:49311
+Read port: 49318
+1729373738616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1729373750944	Marionette	INFO	Stopped listening on port 49318
+Dynamically enable window occlusion 1
+1729373773970	geckodriver	INFO	Listening on 127.0.0.1:49352
+1729373777041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileisy7Dw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729373777353	Marionette	INFO	Marionette enabled
+1729373777504	Marionette	INFO	Listening on port 49362
+WebDriver BiDi listening on ws://127.0.0.1:49353
+Read port: 49362
+1729373777689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1729373781749	Marionette	INFO	Stopped listening on port 49362
 Dynamically enable window occlusion 1
