@@ -1171,3 +1171,28 @@ interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mj
 webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
 1729375430374	Marionette	INFO	Stopped listening on port 50012
 Dynamically enable window occlusion 1
+1729375615788	geckodriver	INFO	Listening on 127.0.0.1:50111
+1729375618858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50112" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileicmxgs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729375619168	Marionette	INFO	Marionette enabled
+1729375619319	Marionette	INFO	Listening on port 50121
+WebDriver BiDi listening on ws://127.0.0.1:50112
+Read port: 50121
+1729375619480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.globalsqa.com/wp-content/themes/Savia/js/jquery.jqzoom-core.js?ver=6.4.5, line 23: TypeError: $.browser is undefined
+JavaScript error: https://www.globalsqa.com/wp-content/themes/Savia/js/jquery.smoothscroll.js?ver=6.4.5, line 430: TypeError: $.browser is undefined
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 100: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-DbLkJJK3YZOSOasYi6rcjkBM_N5vpNI48728xD2bD8.js line 2 > eval line 7552 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-DbLkJJK3YZOSOasYi6rcjkBM_N5vpNI48728xD2bD8.js line 2 > eval line 1834 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/16605506446197414854/320x480/index.html?ev=01_252, line 235: TypeError: studio.Enabler is undefined
+1729375631428	Marionette	INFO	Stopped listening on port 50121
+JavaScript warning: https://www.globalsqa.com/wp-content/plugins/animate/js/app.js?ver=0.5, line 1: Script terminated by timeout at:
+f/<@https://www.globalsqa.com/wp-content/plugins/animate/js/app.js?ver=0.5:1:58
+
+JavaScript warning: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_280.js, line 78: Script terminated by timeout at:
+Eg.prototype.C@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_280.js:78:651
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
