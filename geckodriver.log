@@ -2250,3 +2250,5 @@ Dynamically enable window occlusion 0
 WebDriver BiDi listening on ws://127.0.0.1:62195
 Read port: 62205
 1729461191408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1729461202846	Marionette	INFO	Stopped listening on port 62205
+Dynamically enable window occlusion 1
