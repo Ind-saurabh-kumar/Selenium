@@ -2210,3 +2210,33 @@ Read port: 62007
 1729460794038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1729460808041	Marionette	INFO	Stopped listening on port 62007
 Dynamically enable window occlusion 1
+1729461148248	geckodriver	INFO	Listening on 127.0.0.1:62114
+1729461151310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileGQqT0S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729461151622	Marionette	INFO	Marionette enabled
+1729461151793	Marionette	INFO	Listening on port 62122
+WebDriver BiDi listening on ws://127.0.0.1:62115
+Read port: 62122
+1729461151947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://the-internet.herokuapp.com/js/vendor/298279967.js, line 15: Script terminated by timeout at:
+optimizelyCode/optly.Cleanse.log@https://the-internet.herokuapp.com/js/vendor/298279967.js:15:192
+optimizelyCode/optly.Cleanse.start@https://the-internet.herokuapp.com/js/vendor/298279967.js:16:270
+optimizelyCode@https://the-internet.herokuapp.com/js/vendor/298279967.js:21:15
+@https://the-internet.herokuapp.com/js/vendor/298279967.js:272:1
+
+1729461157101	Marionette	INFO	Stopped listening on port 62122
+Dynamically enable window occlusion 1
+1729461161219	geckodriver	INFO	Listening on 127.0.0.1:62155
+1729461164285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62156" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saura\\AppData\\Local\\Temp\\rust_mozprofileESzFBh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729461164617	Marionette	INFO	Marionette enabled
+1729461164783	Marionette	INFO	Listening on port 62163
+Read port: 62163
+WebDriver BiDi listening on ws://127.0.0.1:62156
+1729461164850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1729461176989	Marionette	INFO	Stopped listening on port 62163
+Dynamically enable window occlusion 1
